@@ -1,5 +1,5 @@
 # [ICLR 2021] RAPID: A Simple Approach for Exploration in Reinforcement Learning
-This is the Tensorflow implementation of ICLR 2021 paper [Rank the Episodes: A Simple Approach for Exploration in Procedurlly-Generated Environments](https://openreview.net/forum?id=MtEE0CktZht). The implementation is based on [OpenAI baselines](https://github.com/openai/baselines). For all the experiments, add the option `--disable_rapid` to see the baseline result.
+This is the Tensorflow implementation of ICLR 2021 paper [Rank the Episodes: A Simple Approach for Exploration in Procedurally-Generated Environments](https://openreview.net/forum?id=MtEE0CktZht). The implementation is based on [OpenAI baselines](https://github.com/openai/baselines). For all the experiments, add the option `--disable_rapid` to see the baseline result.
 
 ## Installation
 ```
