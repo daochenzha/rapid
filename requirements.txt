@@ -1,0 +1,3 @@
+git+https://github.com/daochenzha/minimum-baselines.git#egg=baselines
+tensorflow==1.14.0
+gym-minigrid==1.0.1
