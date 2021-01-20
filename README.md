@@ -16,7 +16,7 @@ url={https://openreview.net/forum?id=MtEE0CktZht}
 ## Installation
 Please make sure that you have **Python 3.5+** installed. First, Clone the repo with
 ```
-https://github.com/daochenzha/rapid.git
+git clone https://github.com/daochenzha/rapid.git
 cd rapid
 ```
 Thne install the dependencies with **pip**:
