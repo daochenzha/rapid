@@ -19,7 +19,7 @@ Please make sure that you have **Python 3.5+** installed. First, Clone the repo 
 git clone https://github.com/daochenzha/rapid.git
 cd rapid
 ```
-Thne install the dependencies with **pip**:
+Then install the dependencies with **pip**:
 ```
 pip install -r requirements.txt
 pip install -e .
