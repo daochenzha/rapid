@@ -14,7 +14,7 @@ url={https://openreview.net/forum?id=MtEE0CktZht}
 ```
 
 ## Installation
-Please make sure that you have **Python 3.5+** installed. First, Clone the repo with
+Please make sure that you have **Python 3.5+** installed. First, clone the repo with
 ```
 git clone https://github.com/daochenzha/rapid.git
 cd rapid
