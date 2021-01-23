@@ -1,10 +1,10 @@
 # [ICLR 2021] RAPID: A Simple Approach for Exploration in Reinforcement Learning
 This is the Tensorflow implementation of ICLR 2021 paper [Rank the Episodes: A Simple Approach for Exploration in Procedurally-Generated Environments](https://openreview.net/forum?id=MtEE0CktZht). We propose a simple method RAPID for exploration through scroring the previous episodes and reproducing the good exploration behaviors with imitation learning.
-<img width="650" src="./imgs/overview.png" alt="overview" />
+<img width="800" src="./imgs/overview.png" alt="overview" />
 
 The implementation is based on [OpenAI baselines](https://github.com/openai/baselines). For all the experiments, add the option `--disable_rapid` to see the baseline result. RAPID can achieve better performance and sample efficiency than state-of-the-art exploration methods on [MiniGrid environments](https://github.com/maximecb/gym-minigrid).
-<img width="650" src="./imgs/rendering.png" alt="rendering" />
-<img width="650" src="./imgs/performance.png" alt="performance" />
+<img width="800" src="./imgs/rendering.png" alt="rendering" />
+<img width="800" src="./imgs/performance.png" alt="performance" />
 
 ## Cite This Work
 ```
