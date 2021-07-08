@@ -26,7 +26,7 @@ class EpisodeSwimmerEnv(mujoco_env.MujocoEnv, utils.EzPickle):
             self.t = 0
         else:
             return_r = 0
-        return ob, reward, False, dict(reward_fwd=reward_fwd, reward_ctrl=reward_ctrl)
+        return ob, return_r, False, dict(reward_fwd=reward_fwd, reward_ctrl=reward_ctrl)
 
     def _get_obs(self):
         qpos = self.sim.data.qpos
