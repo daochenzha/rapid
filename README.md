@@ -6,6 +6,8 @@ The implementation is based on [OpenAI baselines](https://github.com/openai/base
 <img width="800" src="./imgs/rendering.png" alt="rendering" />
 <img width="800" src="./imgs/performance.png" alt="performance" />
 
+Miscellaneous Resources: Have you heard of data-centric AI? Please check out our [data-centric AI survey](https://arxiv.org/abs/2303.10158) and [awesome data-centric AI resources](https://github.com/daochenzha/data-centric-AI)!
+
 ## Cite This Work
 ```
 @inproceedings{
